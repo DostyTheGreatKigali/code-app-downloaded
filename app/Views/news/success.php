@@ -1,0 +1,1 @@
+<p><?= esc("News item created successfully.") ?></p>
