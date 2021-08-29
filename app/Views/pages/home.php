@@ -1,0 +1,1 @@
+<h1 style="text-align: center"><?= esc("My Home Page") ?></h1>
